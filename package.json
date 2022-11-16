@@ -13,6 +13,7 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
+    "vuepress-plugin-serve": "^2.0.4",
     "vuepress-theme-reco": "^1.6.16"
   }
 }

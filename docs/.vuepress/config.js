@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Bear-s-Blos',
     description: 'Bear技术路上的一些笔记',
-    base: '/Bear-logs/',
+    base: '/bear-logs/',
     // theme: 'reco',
     locales: {
         '/': {
